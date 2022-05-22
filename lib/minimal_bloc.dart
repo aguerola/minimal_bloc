@@ -1,4 +1,4 @@
 library minimal_bloc;
 
-export 'stateful_bloc_widget.dart';
-export 'bloc.dart';
+export 'presentation/stateful_bloc_widget.dart';
+export 'presentation/bloc.dart';

@@ -1,5 +1,5 @@
 import 'package:flutter/widgets.dart';
-import 'package:minimal_bloc/bloc.dart';
+import 'package:minimal_bloc/presentation/bloc.dart';
 
 
 abstract class StatefulBlocWidget<B extends Bloc> extends StatefulWidget {
